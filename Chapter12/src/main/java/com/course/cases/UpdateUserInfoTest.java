@@ -15,7 +15,6 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-import static sun.plugin2.main.server.LiveConnectSupport.getResult;
 
 /**
  * Created by fengwei on 2020/3/1.
